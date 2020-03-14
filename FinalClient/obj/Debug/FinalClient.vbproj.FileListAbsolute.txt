@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\FinalClient\FinalClient\bin\Debug\FinalClient.exe.config
+C:\Users\USER\source\repos\FinalClient\FinalClient\bin\Debug\FinalClient.exe
+C:\Users\USER\source\repos\FinalClient\FinalClient\bin\Debug\FinalClient.pdb
+C:\Users\USER\source\repos\FinalClient\FinalClient\bin\Debug\FinalClient.xml
+C:\Users\USER\source\repos\FinalClient\FinalClient\obj\Debug\FinalClient.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\FinalClient\FinalClient\obj\Debug\FinalClient.Form1.resources
+C:\Users\USER\source\repos\FinalClient\FinalClient\obj\Debug\FinalClient.Form2.resources
+C:\Users\USER\source\repos\FinalClient\FinalClient\obj\Debug\FinalClient.Form3.resources
+C:\Users\USER\source\repos\FinalClient\FinalClient\obj\Debug\FinalClient.Resources.resources
+C:\Users\USER\source\repos\FinalClient\FinalClient\obj\Debug\FinalClient.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\FinalClient\FinalClient\obj\Debug\FinalClient.exe
+C:\Users\USER\source\repos\FinalClient\FinalClient\obj\Debug\FinalClient.xml
+C:\Users\USER\source\repos\FinalClient\FinalClient\obj\Debug\FinalClient.pdb
